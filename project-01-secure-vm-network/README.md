@@ -20,7 +20,7 @@ The goal was to simulate a real-world cloud environment by implementing:
 ---
 
 ## 🏗️ Architecture Diagram
-![Architecture](diagrams/01-architecture-diagram.png)
+![Architecture](diagrams/architecture-diagram.png)
 
 ---
 
